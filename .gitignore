@@ -1,8 +1,0 @@
-node_modules/
-.env
-.env.*
-data/config.json
-data/users.json
-data/logs.json
-data/authorized.json
-npm-debug.log*
